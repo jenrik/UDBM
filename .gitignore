@@ -58,3 +58,17 @@ io/tests/Makefile
 *.exe
 *.out
 *.app
+
+# Cmake
+cmake-build-debug/
+out/
+build/
+lib/
+CMakeSettings.json
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CMakeCache.txt
+CMakeFiles
+DartConfiguration.tcl
+CtestTestfile.cmake
+cmake_install.cmake
